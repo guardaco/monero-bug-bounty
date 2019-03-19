@@ -1,6 +1,5 @@
 # Monero Bug Bounty
 
-Hey, Monero community! 
 If you have found a XMR bug in Guarda wallet, submit the description here.
 We are looking for step-by-step bug reports – screenshots and videos of the wallet console.
 

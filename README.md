@@ -1,10 +1,18 @@
 # Monero Bug Bounty
 
 Hey, Monero community! 
-Monero XMR is now functioning in Guarda wallet Web and Desktop versions, all thanks to your help and support! We knew that Monero is great at teamwork and you are always here to prove it. 
-Now, as we have supported XMR in our wallet, we would like to ask you for the community helping hand to test the wallet functions.
+If you have found a XMR bug in Guarda wallet, submit the description here.
+We are looking for step-by-step bug reports – screenshots and videos of the wallet console.
 
-So, we are announcing the Monero Wallet bug bounty. The community member who provides the most useful/detailed solving solution for the bugs they have found will get a prize of **3 XMR**, two more participants with the most noteworthy solutions will get **1 XMR** each. Also, all the participants will get our special XMR-edition **collectable tokens**. 
-If you are in with the testing, get your Guarda XMR wallet on https://guarda.co/, try it out and drop your suggestions to our GitHub. Be sure that your brilliant ideas will be used in wallet development. All hail the community work and thank you all for the support!
+The following information is **necessary**:
+1. Guarda Wallet version that was used (Web, Desktop)
+2. Date and time of your test
+3. Which software was the test performed on
+4. Was the antivirus active/inactive at the moment
 
-Note: the testing period will last for a month, starting today. After these 30 days are over, we will announce the end of Monero bug bounty and distribute the prizes. 
+The bug bounty prizes are to be distributed to the participants who found the biggest number of relevant issues and (if possible) provided ideas on solving the problem. The bug bounty will last for 30 days, starting today.
+
+**Prizes:**
+3 XMR – most bugs found/most relevant fix proposal
+1 XMR – 2 other noteworthy discoveries/propositions
+Collectable Monero-edition Guarda tokens – all the participants

@@ -15,3 +15,6 @@ The bug bounty prizes are to be distributed to the participants who found the bi
 - 3 XMR – most bugs found/most relevant fix proposal
 - 1 XMR – 2 other noteworthy discoveries/propositions
 - Collectable Monero-edition Guarda tokens – all the participants
+
+
+Visit us https://guarda.co
